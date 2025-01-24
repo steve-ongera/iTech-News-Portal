@@ -15,10 +15,10 @@ React Version Live Demo ![Click Here](https://itech-9b147.web.app/)
 
 ```
 open terminal and type
-https://github.com/Sany07/News-Portal-Django.git
+https://github.com/steve-ongera/iTech-News-Portal.git
 
 or simply download using the url below
-https://github.com/Sany07/News-Portal-Django.git
+https://github.com/steve-ongera/iTech-News-Portal.git
 ```
 
 ## Install requirements
